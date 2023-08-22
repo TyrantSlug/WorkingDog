@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WarkingDog</string>
+    <string name="title_activity_park_board">ParkBoardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="facebook_app_id">364126874214109</string>
+    <string name="fb_login_protocol_scheme">fb364126874214109</string>
+
+</resources>

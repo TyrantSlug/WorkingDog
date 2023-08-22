@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56306742727",
+    "firebase_url": "https://warkingdog-921bf.firebaseio.com",
+    "project_id": "warkingdog-921bf",
+    "storage_bucket": "warkingdog-921bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56306742727:android:44973fffee59bc95",
+        "android_client_info": {
+          "package_name": "mjc.ftamongft.warkingdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56306742727-mliuvjr51r9a5bvgmr2bpj3rkk49qnen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mjc.ftamongft.warkingdog",
+            "certificate_hash": "45bd1bcb25c8a18c3058370a7679bb50456c52de"
+          }
+        },
+        {
+          "client_id": "56306742727-7r4qq6jad55kcbt83onha05pcth7r03r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Wdqj3uP8LMraz3NA5gsnzx_M3IdgjZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56306742727-7r4qq6jad55kcbt83onha05pcth7r03r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
