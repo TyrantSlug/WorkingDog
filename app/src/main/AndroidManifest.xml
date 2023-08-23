@@ -30,7 +30,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB_UWwynxXDg-HZ-TgUCG4ViupiD3wickQ" />
+            android:value="${{ secrets.GOOGLE_API_KEY }}" />
 
         <uses-library
             android:name="org.apache.http.legacy"
