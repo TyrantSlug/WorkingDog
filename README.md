@@ -7,4 +7,4 @@ WorkingDog
 
 ## 동영상
 
-[![동영상](https://user-images.githubusercontent.com/132973592/285657590-e701a539-6fcb-4347-b29d-a53e2472a1a7.jpg)(https://youtu.be/ie4QwvWbGpM)]
+[![동영상](https://user-images.githubusercontent.com/132973592/285657590-e701a539-6fcb-4347-b29d-a53e2472a1a7.jpg)](https://youtu.be/ie4QwvWbGpM)
